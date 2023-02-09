@@ -1,0 +1,114 @@
+/* Desarrollo Web 1 */
+/* Nombre Práctica: Hola  */
+/* Autor/a:Aleida Rodriguez Gonzalez */
+/* Fecha de elaboración:03 de febrero del 2023 */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10;
+}
+    body{
+         background-color: whitesmoke;
+      }
+
+    .es{
+        position: absolute;
+        top:100px;/*movimiento arriba*/
+        left: 90px; /*movimiento izquierda/derecha*/
+        z-index: 0;/*profundidad*/
+       /* webkit-text-stroke: 0px; /*contorno de letra color y que tan grueso es*/
+        color:#fc60a8;
+        font-size: 100px;
+        }
+
+    .in{
+        position: absolute;
+        top:60px;/*movimiento arriba*/
+        left:350px;/*movimiento izquierda*/
+        -webkit-text-stroke: 0px black; /*contorno de letra color y que tan grueso es*/
+      /*  z-index: 10; /*profundidad*/
+        color:#50b7e2;
+        font-size: 65px;
+            }
+
+    .frech{
+        position: absolute;
+        top:150px;/*movimiento arriba*/
+        left:320px; /*movimiento izquierda/derecha*/
+        z-index: 0;/*profundidad*/
+        color:#33a8c7;
+        font-size: 110px;
+            }
+    .it{
+        
+        position: absolute;
+        top:200px;/*movimiento arriba*/
+      left: 500px; /*movimiento izquierda/derecha*/
+        z-index: 35;/*profundidad*/
+        color:#52e3e1;
+        font-size: 120px;
+            }
+
+    .lat{
+        position: absolute;
+        top:290px;/*movimiento arriba*/
+        left: 660px; /*movimiento izquierda/derecha*/
+        z-index: 10;/*profundidad*/
+        color:#a0e426;
+        font-size: 80px;
+            }
+
+    .gales{
+        position: absolute;
+        top:200px;/*movimiento arriba*/
+        left: 760px; /*movimiento izquierda/derecha*/
+        z-index: 35;/*profundidad*/
+        color:#fdf148;
+        font-size: 70px;
+            }
+
+    .zulu{
+        position: absolute;
+        top:350px;/*movimiento arriba*/
+        left: 400px; /*movimiento izquierda/derecha*/
+        z-index: 35;/*profundidad*/
+        color:#ffab00;
+        font-size: 98px;
+            }
+
+    .vietman{
+        position: absolute;
+        top:400px;/*movimiento arriba*/
+      left: 100px; /*movimiento izquierda/derecha*/
+        z-index: 35;/*profundidad*/
+    color:#f77976;
+    font-size: 80px;
+        }
+
+    .mizo{
+        position: absolute;
+        top:50px;/*movimiento arriba*/
+      left: 550px; /*movimiento izquierda/derecha*/
+        z-index: 35;/*profundidad*/
+        color:#f050ae;
+        font-size: 150px;
+            }
+
+    .bambara{
+        position: absolute;
+        top:320px;/*movimiento arriba*/
+        left:310px; /*movimiento izquierda/derecha*/
+        z-index: 35;/*profundidad*/
+        color:#d883ff;
+        font-size: 50px;
+            }
+
+    .noruego{
+        position: absolute;
+        top: 200px;/*movimiento arriba*/
+      left:50px; /*movimiento izquierda/derecha*/
+        z-index: 5;/*profundidad*/
+        color:#9336fd;
+        font-size: 150px;
+            }
