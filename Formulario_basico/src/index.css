@@ -1,0 +1,16 @@
+/*formulario*/
+html, body{
+  background-image: url("https://png.pngtree.com/background/20210717/original/pngtree-mathematics-subject-cream-for-high-school-9th-grade-geometry-picture-image_1443160.jpg");
+    color: rgb(0, 0, 0);
+  text-align: center;
+  font-family:cursive;
+  font-size: 16px;
+  padding: 50px;
+}
+button {
+  background-color:rgb(253, 131, 152);
+  border-color: rgb(255, 6, 234);
+  border-radius: 15%;
+  padding: 20 px;
+
+}
